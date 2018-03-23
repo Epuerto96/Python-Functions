@@ -1,6 +1,5 @@
 def percentDifference(new,old):
-    """Short summary.
-
+    """
     Parameters
     ----------
     new : float
