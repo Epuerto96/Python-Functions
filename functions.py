@@ -9,10 +9,9 @@ def percentDifference(new,old):
 
     Returns
     -------
+    print ("lol")
     Float
         Difference bewteen new and old in percent.
-
-
-    #adding spaces :) 
+        
     """
     return (abs(new-old)/abs(old))*100
